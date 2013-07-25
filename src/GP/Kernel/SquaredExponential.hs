@@ -35,17 +35,6 @@ calculate_VxM l x x' = fromList $ map (calculate_VxV l x) (toRows x')
 calculate_MxV :: Kernel_MxV
 calculate_MxV l x x' = fromList $ map (calculate_VxV l x') (toRows x) -- Just swapping parameters (corresponding to function above) is ok here, since abs(diff(x, x')) is used
 
-{- Performs the inner loop:
-    for col in range(len(Y)):
-        result[row, col] = calculate_VxV(X[row], Y[col], l)
-
-    Note: Order of parameters is slightly reversed (l x' x instead of l x x'), since it eases up using map in `calculate`.
-    map (calculate_VxV l x) x' results in a list of Double, thus -> fromList.
-    As mentioned in the loop description above, the result counts as a row. 
--}
-calcHelp :: Kernel_VxV -> Double -> [Vector Double] -> Vector Double -> Vector Double
-calcHelp func l x' x = fromList $ map (func l x) x' 
-
 {- 
     Combine each row in x with each one in x'. The calculate_VxV function is used for performing the combination.
     The result is stored in a result matrix.
@@ -54,13 +43,13 @@ calcHelp func l x' x = fromList $ map (func l x) x'
         for col in range(len(Y)):
             result[row, col] = calculate_VxV(X[row], Y[col], l)
     
-    calcHelp performs the internals of mapping as representation of the inner loop as mentioned above.
-    Due to the inpretation, the map-result creates a list of row-vectors, thus, we need fromRows here.
+    calculate_VxV performs the row x row calculation.
+    Due to the nature of the kernel function - being based on abs diff () - MxV and VxM will produce the same result, as long as both parameters are the same.
 
 -}
 calculate_MxM :: Kernel_MxM
 calculate_MxM l x x' =  let xx' = toRows x'
-                        in fromColumns $ map (calculate_MxV l x) xx' -- Note: Parameters are swapped. Is ok here, due to the kernels nature 
+                        in fromRows $ map (calculate_MxV l x) xx' -- Note: Parameters are swapped. Is ok here, due to the kernels nature 
 {-
     Unless proven otherwise, those are equivalent, except the given functor
 -}
