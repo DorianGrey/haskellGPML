@@ -1,0 +1,2547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Kernel_V",
+				"Kernel_VxM	"
+			],
+			[
+				"calculate",
+				"calculate_VxV	Kernel_VxV"
+			],
+			[
+				"cal",
+				"calculateDeriv"
+			],
+			[
+				"K",
+				"Kernel	(module)"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"ca",
+				"calculate	Matrix Double -> Matrix Double -> Double -> Matrix Double"
+			],
+			[
+				"fromIn",
+				"fromIntegral	(Integral a, Num b) => a -> b"
+			],
+			[
+				"ker",
+				"kernel"
+			],
+			[
+				"Ker",
+				"KernelDeriv"
+			],
+			[
+				"kern",
+				"kernelDeriv"
+			],
+			[
+				"fromCol",
+				"fromColumns	Element t => [Vector t] -> Matrix t"
+			],
+			[
+				"S",
+				"SquaredExponential	(module)"
+			],
+			[
+				"myM",
+				"myMat2"
+			],
+			[
+				"ins",
+				"insert	Ord k => k -> a -> Map k a -> Map k a"
+			],
+			[
+				"map",
+				"mapAl"
+			],
+			[
+				"M",
+				"Map"
+			],
+			[
+				"is",
+				"isDigit"
+			],
+			[
+				"parse",
+				"parseByte	Parse Word8"
+			],
+			[
+				"WOr",
+				"Word8	"
+			],
+			[
+				"pa",
+				"pack	[Word8] -> ByteString"
+			],
+			[
+				"new",
+				"newState"
+			],
+			[
+				"fir",
+				"firstRes"
+			],
+			[
+				"err",
+				"errMsg"
+			],
+			[
+				"Par",
+				"Parse	"
+			],
+			[
+				"Wor",
+				"Word8	"
+			],
+			[
+				"init",
+				"initState"
+			],
+			[
+				"par",
+				"parser"
+			],
+			[
+				"int",
+				"Int64	"
+			],
+			[
+				"max",
+				"maxGrey"
+			],
+			[
+				"p",
+				"pack	[Char] -> ByteString"
+			],
+			[
+				"math",
+				"matchHeader	L.ByteString -> L.ByteString -> Maybe L.ByteString"
+			],
+			[
+				"drop",
+				"dropWhile	(Char -> Bool) -> ByteString -> ByteString"
+			],
+			[
+				"l",
+				"length	ByteString -> Int64"
+			],
+			[
+				"spl",
+				"splitAt	Int64 -> ByteString -> (ByteString, ByteString)"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"from",
+				"fromIntegral	(Integral a, Num b) => a -> b"
+			],
+			[
+				"read",
+				"readInt	ByteString -> Maybe (Int, ByteString)"
+			],
+			[
+				"b",
+				"ByteString	"
+			],
+			[
+				"Iter",
+				"Iterate	seed"
+			],
+			[
+				"count",
+				"countDirectories	Num seed => seed -> Info -> Iterate seed"
+			],
+			[
+				"It",
+				"Iterate	seed"
+			],
+			[
+				"sub",
+				"subpath"
+			],
+			[
+				"de",
+				"deriving	(keyword)"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"with",
+				"withFile	FilePath -> IOMode -> (Handle -> IO r) -> IO r"
+			],
+			[
+				"lif",
+				"liftM	Monad m => (a1 -> r) -> m a1 -> m r"
+			],
+			[
+				"Bo",
+				"Bool"
+			],
+			[
+				"siz",
+				"sizeP	InfoP Integer"
+			],
+			[
+				"or",
+				"orP	InfoP Bool -> InfoP Bool -> InfoP Bool"
+			],
+			[
+				"and",
+				"andP	InfoP Bool -> InfoP Bool -> InfoP Bool"
+			],
+			[
+				"lift",
+				"liftPath	(FilePath -> a) -> InfoP a"
+			],
+			[
+				"be",
+				"betterFind"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"Op",
+				"openFile"
+			],
+			[
+				"get",
+				"getFileSize"
+			],
+			[
+				"fil",
+				"filterM"
+			],
+			[
+				"hF",
+				"hFileSize	Handle -> IO Integer"
+			],
+			[
+				"IO",
+				"IOMode	"
+			],
+			[
+				"take",
+				"takeExtension	FilePath -> String"
+			],
+			[
+				"tak",
+				"takeExtension	FilePath -> String"
+			],
+			[
+				"ge",
+				"getRecursiveContents"
+			],
+			[
+				"do",
+				"doesDirectoryExist	FilePath -> IO Bool"
+			],
+			[
+				"lis",
+				"listMatches"
+			],
+			[
+				"dir",
+				"dirName"
+			],
+			[
+				"cu",
+				"curDir"
+			],
+			[
+				"doe",
+				"doesFileExist	FilePath -> IO Bool"
+			],
+			[
+				"ma",
+				"matchesGlob"
+			],
+			[
+				"Re",
+				"RegexLike	(module)"
+			],
+			[
+				"ch",
+				"charClass"
+			],
+			[
+				"getAll",
+				"getAllTextMatches	AllTextMatches f b -> f b"
+			],
+			[
+				"All",
+				"AllTextMatches	f b"
+			],
+			[
+				"R",
+				"Regex	(module)"
+			],
+			[
+				"qu",
+				"qualified	Qualified"
+			],
+			[
+				"inp",
+				"inpStr"
+			],
+			[
+				"un",
+				"unless"
+			],
+			[
+				"main",
+				"mainloop"
+			],
+			[
+				"to",
+				"toUpper	Char -> Char"
+			],
+			[
+				"na",
+				"nameReply"
+			],
+			[
+				"J",
+				"JObject"
+			],
+			[
+				"Ja",
+				"JAry"
+			],
+			[
+				"JOb",
+				"JObj"
+			],
+			[
+				"in",
+				"instance	Instance"
+			],
+			[
+				"JSON",
+				"JSONError"
+			],
+			[
+				"da",
+				"data3"
+			],
+			[
+				"rea",
+				"read"
+			],
+			[
+				"Bl",
+				"Blab"
+			],
+			[
+				"B",
+				"BasicEq"
+			],
+			[
+				"fi",
+				"fits"
+			],
+			[
+				"fo",
+				"fold"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"sr",
+				"stringify"
+			],
+			[
+				"qualified",
+				"qualified"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"f",
+				"fmt	 package ρ"
+			],
+			[
+				"al",
+				"algebraBook"
+			],
+			[
+				"Functo",
+				"Functor"
+			],
+			[
+				"tree",
+				"treeElement"
+			],
+			[
+				"fol",
+				"foldr"
+			],
+			[
+				"Bin",
+				"BinNode"
+			],
+			[
+				"tre",
+				"treeInsert"
+			],
+			[
+				"Or",
+				"Ord"
+			],
+			[
+				"Em",
+				"EmptyTree"
+			],
+			[
+				"singe",
+				"singleBinNode"
+			],
+			[
+				"s",
+				"std"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Main.hs",
+			"settings":
+			{
+				"buffer_size": 996,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/GP/Kernel/SquaredExponential.hs",
+			"settings":
+			{
+				"buffer_size": 3069,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/GP/Kernel/Kernel.hs",
+			"settings":
+			{
+				"buffer_size": 652,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/GP/Spawns/Spawn.hs",
+			"settings":
+			{
+				"buffer_size": 3249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "http://www.linuxlounge.net/~martin/tmp/CFBG27.zip\n\nhttp://bugs.wow-castle.de/view.php?id=2120 - NPC 37098 -> needs script!\n.cast 72484 triggered\n\n\nZwangsfreizeit hatte ich zwischen Februar und Ende Mai, weil ich auf die Bewertung meiner Abschlussarbeit und die Ausfertigung meines Zeugnisses warten musste. \nZu Dishonored gibt es ein imho sehr übersichtliches Video der Gamestar:\nhttp://www.youtube.com/watch?v=mjV8Cq7gQNg\nIch hatte eine gepatchte Version, wo kaum noch Bugs drin waren. Im englischen Original noch besser als im Deutschen :)\nZu Mass Effect hab ich ein gutes Video aus Teil 2: http://www.youtube.com/watch?v=1UH_EuBHeys\nVanguard <3 Als Mischung aus Rollenspiel und Shooter einfach sehr stimmungsvoll, wenn man einmal drin hängt. Die Dramatik der Story ist bei Teil 3 am größten, aber das Ende ist so... naja. Wenn man von Teil 1 an spielt, kann man eine Charaktere und die meisten der getroffenen Entscheidungen übernehmen, was z.T. sehr große Auswirkungen hat.\nGuild Wars 2 ist von den Mechaniken her etwas anders, z.B. gibt es abseits der storylastigen Hauptquest keinerlei sonstige Quests, sondern nur Events überall in der Welt, einige dauerhaft, einige hin und wieder. Auf 80 gibt es halt kaum Motivation, die Dungeons für Equipment zu grinden, weil nach Ende der Hauptquest keine richtige Story mehr wartet, außer beim ersten Durchlauf.\nKingdoms of Amalur habe ich zweimal durchgespielt, einmal als reiner Magier, einmal als Spellblade (Schurke/Magie-Kombination). Im Endgame etwas wenig herausfordernd, wenn man schmieden kann, weil Schadensresistenzen auf fast 100 erhöhbar sind. Aber an sich stimmungsvoll und ein interessantes Kampfsystem.\nAssassins Creed ist toll :D Die meiste Stimmung birgt derzeit Teil 3, wo man in den amerikanischen Unabhängigkeitskrieg eingreift. Allerdings lohnt sich die ganze Reihe, um alles verstehen zu können.\nWoW 3.3.5a ist WotLK, Eiskronenzitadelle usw. https://github.com/TrinityCore/TrinityCore ist die Basis des Servers von http://www.wow-castle.de/bboard/, für den ich u.a. Skripte entwickle. Auch aus rechtlicher sauber, und gratis. :)\nThe Witcher 2 hatte ich glatt auf der Liste vergessen ... wie hatte das jemand beschrieben: \"Fluchend und vögelnd Leute manipulieren und abschlachten\" (Zitat). Passt irgendwie ;)\n\nZunächst einmal, danke für dein Vertrauen, mir diese Details zu beschreiben. Entgegen deiner Befürchtungen bin ich erschreckend objektiv, und eigentlich auch ein guter Ratgeber in diesen Dingen - wie immer, dem guten Ratgeber gelingt selbst nichts.\nNun, damit ich das richtig verstehe...\n-> du warst vorübergehend von deinem Freund getrennt\n-> hast in der Zeit jemand anderen kennengelernt\n-> jetzt spielt dein Freund wieder mit\n-> du hast keine Ahnung, was du so wirklich tun sollst\n-> egal was du tust, du willst niemanden verletzen\nDie schlechte Nachricht vorweg: Der letzte Punkt ist unmöglich. Unabhängig davon, was du tust, wirst du einem der beiden weh tun müssen, und es ist zu erwarten, dass er dich dafür auf ewig hassen wird. Dieser Punkt ist unumgänglich, aber notwendig.\nEiner der wohl praktikableren Wege wäre, erst einmal von beiden Abstand zu gewinnen, durch eine Reise o.ä., für einige Wochen. Ziel dessen wäre es, herauszufinden, ob du jemanden vermisst, und wie sich das auswirkt. Solange beide in deiner Reichweite sind, wird das immer Einfluss auf dich haben, auf das was du fühlst, denkst, tust. Solange dies anhält, wirst du keinen klaren Blick finden, um darauf eine Entscheidung aufzubauen. \nWenn du schon länger wichtige Punkte vermisst, die sich nicht einfügen ließen, gibt es eigentlich nur zwei Wege:\n- Sind sie immer noch wichtig -> Ändern oder Ende\n- Sind sie nicht länger wichtig -> Vergiss sie\nAuch wenn der erste Weg hart klingt - darauf zu verzichten, ohne eine Änderung herbeizuführen, wäre ein Kompromiss bezüglich eines äußerst wichtigen Aspekts. Bei selbigen führen Kompromisse keine dauerhafte Lösung herbei, entweder es gibt Konsens oder es gibt keine gemeinsame Basis. Kompromisse hinsichtlich dieser Punkte machen euch früher oder später nur unglücklich, noch mehr als ihr es jetzt seid.\nAlso, in Kurzform:\n(1) Suche Abstand, um einen Blick auf das Ganze zu bekommen, um alle Aspekte berücksichtigen zu können\n(2) Schrecke nicht vor harten, klaren Schnitten zurück, auch wenn sie dir oder anderen weh tun\n(3) Zu viele Gefühle in der Entscheidungsfindung vernebeln deinen Blick\nKlingt vielleicht hart, aber das sind notwendige Schritte fast immer.\n\n\nIn diesem Sinne,\n\n~ Christian\n==========================================================================================================================================\n<p align=\"center\"><img src=\"http://www.wizards.com/dnd/class/images/banners/Sorcerer.jpg\"/><br/><a href=\"http://www.wizards.com/dnd/\" target=\"_blank\">D&D Home Page</a> - <a href=\"http://www.wizards.com/dnd/class/index.asp\" target=\"_blank\">What Class Are You?</a> - <a href=\"http://www.wizards.com/default.asp?x=dnd/insider/characterbuilder\" target=\"_blank\">Build A Character</a> - <a href=\"http://www.wizards.com/dndinsider/compendium/database.aspx?searchterm=Sorcerer\" target=\"_blank\">D&amp;D Compendium</a></p>\n\n==========================================================================================================================================\nZu dem blauen gibt es auch noch eine genauere Beschreibung: http://www.wizards.com/magic/multiverse/colors.aspx?color=blue\nBzw. allgemein - http://www.wizards.com/magic/multiverse/colors.aspx ; Der Test ist im Moment irgendwie nicht erreichbar, war unter http://www.wizards.com/magic/playmagic/whatcolorareyou.asp.\n\nDer Seufzer galt dir, da du offenbar im Moment so gar nicht mit deinem Gefühlschaos klarkommst - zumindest haben die zahlreichen Schnulzen darauf hingewiesen.\n\nBeziehungsratgeber... *hust*, nunja, bedenke dabei stets, dass die immer nur einen Teil abdecken, bzw. sich auf relativ allgemeine gehaltene Punkte beschränken. Ob das anwendbar ist, musst du wissen.\n\nEtliche Punkte in dem Bereich sind eher spekulativ. Beispielsweise wird gerne die Frage gestellt, warum das Gebäude in nur 8 Sekunden zusammengestürzt sei, was durch einen Flugzeugeinschlag natürlich nicht allein verursacht werden kann. Woher die genannten 8 Sekunden kommen - die irgendwie nicht so wirklich erwähnt werden, bleibt dabei offen. Thermit und Schwefel können wiederum noch nicht entfernte Reste von Bauarbeiten sein, und eben solche haben auch stattgefunden. In die Richtung denkt aber keiner der Verschwörungstheoretiker, weil es ja nicht deren gedanklichem Kurs entspricht. Thermit wird zum Verschweißen von hartem Stahl verwendet und kann durch geringste Funken zum entzünden gebracht werden, btw. . In dem Flugzeug war Kerosin. Brennt gut. Bedenke dabei auch, dass Verschwörungstheoretiker nicht objektiv sind, sondern stets nur die Fragmente der Wahrheit anschleppen, die ihrem Grundgedanken entsprechen, und alles andere zu diskreditieren versuchen. Sind sie da in irgendeiner Form besser als Regierungsbehörden?\n\nGlaubst du wirklich, ein unterbezahlter Stabsarzt würde auf solche feinen Nuancen achten?\n\nTreue kann sich mehrere Punkte beziehen - menschliche, emotionale, sexuelle Treue. Die erstgenannte umfasst Dinge wie Loyalität, die zweitgenannte eine gefühlsmäßige Nähe. Die letztere ist ein Gedanke, der mutmaßlich mit den anderen in Verbindung steht, bzw. ein Verstoß ein Indikator sein soll, dass die übrigen Aspekte nicht mehr vorhanden oder beschädigt sind. Dies gründet auf der Annahme, dass Sex unbedingt mit tieferen Gefühlen der anderen Person gegenüber in Verbindung steht. Dem ist nicht zwangsläufig so, wenngleich es prinzipiell möglich ist. Daher fällt das nicht unter Vorbedingung, sondern unter Absprache.\n\nDie grundsätzliche Frage hinsichtlich der Existenz von Liebe stellt sich angesichts der diversen biologischen Einflussfaktoren. Ob man eine Hormonachterbahn als Gefühl definieren sollte, wage ich zu bezweifeln. Entscheidungsfindung? Nicht mehr sinnvoll möglich. Das wiederum ergibt evolutionär keinen Sinn, da spielt die Kompatibilität eine größere Rolle, und die kann man kaum sinnvoll überprüfen, wenn man nicht einmal klar denken kann. Die üblichen Beschreibungen belaufen sich immer auf \"es passiert einfach\". Auch das ergibt keinen Sinn, wenn man alle eigentlich notwendigen Aspekte einbeziehen möchte. Man kann einige Eigenschaften seines Gegenübers kennen, erheblich mehr unterstellen, und deshalb Zuneigung höherer Art empfinden. Zuviel Spielraum für Unterstellungen und zu wenig für Reales.\nKurzum - wie ich es auch drehe und wende, es ergibt nie Sinn, höchstens in Fragmenten. \n\nEs ist unwahrscheinlich, weil dafür eine gewisse Kompatibilität notwendig ist. Wie schon angedeutet, evtl. jenseits der 30, 40, ... 100. Bisher war das Ergebnis stets niederschmetternd schlecht, und die Liste derer, deren Leben ich niemals retten würde, ist ausgesprochen lang geworden. Anwärterinnen für den Darwin-Award in Hülle und Fülle, aber abseits davon ... vergeben oder lesbisch. Yeeha.\n\nIch treffe Urteile niemals vorschnell. Aus dem Verhalten von Leuten kann man sehr schnell herauslesen, ob das, was sie da an den Tag legen, gespielt ist, oder ob sie immer so drauf sind. Insbesondere die Augen verraten oft die eigentliche Absicht. Man kann natürlich auch die Sherlock-Holmes-Variante heranziehen und das Gesamtbild auf 42-256 Aspekte absuchen, die noch mehr verraten. Da übe ich mich noch dran. Details sind der Schlüssel - selbst gute Schauspieler können einige Punkte nur schwer bis gar nicht verbergen, da hilft dann der entsprechende Schnitt.\n\nIm Moment habe ich noch frei, ja. Bin nach meiner Auszeit in der Bewerbungsphase, einige Rückfragen sind noch offen, einige Bewerbungen bereits versendet. Die meisten Stellen sind leider nicht gerade im näheren Umkreis, aber wenn es notwendig wird... naja.\n\nBei Mass Effect würde ich wenn zur kompletten Reihe raten, weil man sonst in den späteren Teilen mitunter bestimmte Punkte nur teilweise versteht - die Teile sind storytechnisch sehr eng miteinander verwoben.\n\nSchadensresistenzen können KoA mitunter sehr einfach machen. Endboss vs meinen Magier - Boss trifft mich frontal, der Lebensbalken zuckt nichtmal. Hab ihm ein paar Meteore an den Kopf geworfen, dass hat die Fronten recht schnell geklärt.\n\nJa, auf dem privaten kann jeder spielen, man muss sich dafür nur einen Foren- und einen Gameaccount anlegen.\n\nThe Witcher 2 hab ich durch, wenn ich Skyrim durch habe (also ob das so schnell ginge *hust*) steht noch der erste Teil auf der Liste.\n\nIch bin wesentlich böser, als ich zugebe. Manchmal ist es von Vorteil, wenn Menschen einen zu sehr fürchten, als das sie irgendwelche Dummheiten anstellen würden, mitunter aber auch kontraproduktiv.\nDie Art und Weise, wie du über die \"Beziehung\" zu deinem Freund sprichst, deutet eher auf eine gute Freundschaft hin. Der andere allerdings klingt eher nach Schwärmerei, weil er genau die Aspekte bedient, die dir bei deinem Freund fehlen. Auch das ist keine gute Basis, weil du nicht einschätzen kannst, wie die Aspekte, die du bei deinem Freund schätzt, bei ihm ausgeprägt sind. Unter Berücksichtigung dieses Problems wäre für den Moment keiner der beiden eine sinnvolle Option.\nDu kennst die Antwort, magst diese Wahrheit aber nicht rausrücken. Es gibt da verschiedene Wege, über Pott-Brownies zu Wodka oder Whisky, die diesen Vorgang vereinfachen könnten. Allerdings warne ich vor zu großen Dosen des erstgenannten, da du deinen Freund dann wohl als rosa Kaninchen sehen wirst. Im Ernst: Eventuell hilft eine professionelle Paartherapie, aber dazu müsstet ihr beide bereit sein. Sollte das nicht als Option in Betracht kommen: Du kennst die Antwort auf die Frage, die du dir stellst, aber du magst die Antwort nicht. Alles andere ist aber unmöglich und fällt damit raus. Also: Tu es - oder bleibe unglücklich. Es ist deine Entscheidung, und ich hoffe, du triffst die richtige.\n\n\n<Laa shay'a waqu'in moutlaq bale kouloun moumkine.>\n\nIn diesem Sinne,\n\n~ Christian\n",
+			"settings":
+			{
+				"buffer_size": 11986,
+				"line_ending": "Windows",
+				"name": "http://www.linuxlounge.net/~martin/tmp/CFBG27.zip"
+			}
+		},
+		{
+			"file": "/G/World of Warcraft/Data/deDE/realmlist.wtf",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"hli",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"hlin",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"hl",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"sublim",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"sublimh",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"subl",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"pak",
+				"Package Control: Enable Package"
+			],
+			[
+				"hlint",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: Haskell"
+			],
+			[
+				"sublime",
+				"SublimeHaskell: Show type"
+			],
+			[
+				"sublimeh",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"sublimhas",
+				"SublimeHaskell: Lint"
+			],
+			[
+				"sub",
+				"SublimeREPL: Haskell"
+			],
+			[
+				"haskell",
+				"SublimeHaskell: Browse module"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: lambda"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Workspaces/ST2/haskellGP/src/GP/Kernel/General.hs",
+		"/D/Workspaces/ST2/haskellGP/haskellGP.cabal",
+		"/D/Workspaces/ST2/haskellGP/src/GP/Spawn/Spawn.hs",
+		"/D/Castle/master/src/server/scripts/OutdoorPvP/OutdoorPvPWG.h",
+		"/D/Castle/master/src/server/scripts/OutdoorPvP/OutdoorPvPWG.cpp",
+		"/G/World of Warcraft/Data/deDE/realmlist.wtf",
+		"/D/Castle/bin/bin/Debug/worldserver.conf",
+		"/D/Workspaces/ST2/haskellGP/src/Kernel/SquaredExponential.hs",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/SublimeHaskell/Default.sublime-keymap",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/User/SublimeHaskell.sublime-settings",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/User/Default.sublime-keymap",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/SublimeHaskell/SublimeHaskell.sublime-settings",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Rawr v2.3.22/Rawr.Base.XmlSerializers.dll",
+		"/D/Workspaces/ST2/chapter13/src/Main.hs",
+		"/D/Castle/master/src/server/scripts/Custom/worldserver.conf.add",
+		"/C/Users/Christian/workspace-kepler/test/README.md",
+		"/D/Workspaces/Eclipse/ClojureTest/testi/src/testi/core.clj",
+		"/C/Users/Christian/AppData/Roaming/.emacs.d/init.el",
+		"/C/Users/Christian/.lein/profiles.clj",
+		"/C/Users/Christian/Documents/Bewerbung/Neuer Ordner/bewerbung.tex",
+		"/C/Users/Christian/Downloads/BewerbungLaTeX/Bewerbung LaTeX/Lebenslauf.tex",
+		"/C/Users/Christian/Downloads/BewerbungLaTeX/Bewerbung LaTeX/Bewerbung.tex",
+		"/C/Users/Christian/Documents/Bewerbung/Anschreiben.tex",
+		"/D/Workspaces/VS2012/Functionals/CMakeLists.txt",
+		"/D/Workspaces/VS2012/functionalIters/functional/map_iter.hpp",
+		"/D/Workspaces/VS2012/functionalIters/functional/detail/detail.hpp",
+		"/D/Workspaces/VS2012/Functionals/funcConfig.h.in",
+		"/D/Workspaces/VS2012/functionalIters/CMakeLists.txt",
+		"/G/TSEV Skyrim LE/WereToggle.asi",
+		"/G/TSEV Skyrim LE/weretoggle.ini",
+		"/C/Users/Christian/Downloads/Transmogrification.diff",
+		"/D/Castle/master/src/server/scripts/Custom/CMakeLists.txt",
+		"/D/Castle/master/sql/castle/Transmog/world.sql",
+		"/D/Castle/master/sql/castle/Transmog/characters.sql",
+		"/D/Castle/master/src/server/scripts/Custom/Transmogrifier.cpp",
+		"/D/Castle/master/src/server/scripts/Custom/Transmogrification.cpp",
+		"/D/Castle/master/src/server/scripts/Custom/Transmogrification.h",
+		"/H/Backup_22_02_2011/Chef_self/Documents/Visual Studio 2010/Projects/WoWLauncher/WoWLauncher/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/TechDemo_ClojureMapping/TechDemo_ClojureMapping/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/TMP_Test/TMP_Test/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/TechDemo_StaticMath/TechDemo_StaticMath/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/TechDemo_DelegatedFunctionObj/TechDemo_DelegatedFunctionObj/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/JobTest/JobTest/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Projects/Static2MemFuncCallback/Static2MemFuncCallback/Main.cpp",
+		"/H/Backup_22_11_2012/Documents/Visual Studio 2010/Main.cpp",
+		"/C/Users/Christian/Documents/Neues Textdokument.txt",
+		"/D/Torrents/The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT/skle-walmart.nfo",
+		"/D/Castle/master/sql/castle/2013_05_17_00_world_q12082.sql",
+		"/D/Castle/bin/bin/Debug/Server.log",
+		"/D/Torrents/flt-reme/fairlight.nfo",
+		"/C/Users/Christian/Desktop/server_2013_06_12-05.30.01.log",
+		"/D/Castle/master/sql/castle/2013_06_09_00_world_q8447.sql",
+		"/D/MariaDB 5.5/my-huge.ini",
+		"/D/MariaDB 5.5/data/my.ini",
+		"/C/Users/Christian/Documents/dumps/Dump20130605/world_item_loot_template.sql",
+		"/C/Users/Christian/Desktop/world.sql",
+		"/D/Navicat Premium/MAYANPROPHECY.nfo",
+		"/D/Castle/master/sql/castle/2013_06_03_00_world_q13295.sql",
+		"/D/Castle/master/src/server/scripts/Northrend/FrozenHalls/HallsOfReflection/halls_of_reflection.cpp",
+		"/D/Castle/master/src/server/scripts/Commands/CMakeLists.txt",
+		"/D/Castle/master/src/server/scripts/Commands/cs_account.cpp",
+		"/D/Castle/master/src/server/scripts/Custom/player_scripts.cpp",
+		"/C/Users/Christian/Downloads/snail.rkt",
+		"/D/Castle/master/src/server/game/Entities/Player/Player.cpp",
+		"/D/Castle/master/src/server/game/World/World.cpp",
+		"/D/Castle/master/src/server/scripts/Northrend/wintergrasp.cpp",
+		"/D/Castle/master/src/server/scripts/Northrend/Naxxramas/instance_naxxramas.cpp",
+		"/D/libraries/cpp/coroutine.hpp",
+		"/D/libraries/cpp/yield.hpp",
+		"/D/Workspaces/ST2/chapter13/chapter13.cabal",
+		"/D/Workspaces/ST2/chapter13/chapter13.sublime-project",
+		"/D/Workspaces/ST2/chapter10/chapter10.cabal",
+		"/D/Workspaces/ST2/chapter10/chapter10.sublime-project",
+		"/D/Workspaces/ST2/chapter10/src/FlexibleEitherFunctor.hs",
+		"/D/Workspaces/ST2/chapter10/src/Parse.hs",
+		"/D/Workspaces/ST2/chapter10/src/PNM.hs",
+		"/D/Workspaces/ST2/chapter10/src/Main.hs",
+		"/D/Castle/master/src/server/scripts/Northrend/CrusadersColiseum/TrialOfTheCrusader/trial_of_the_crusader.cpp",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/D/Castle/master/src/server/scripts/Northrend/CrusadersColiseum/TrialOfTheCrusader/boss_northrend_beasts.cpp",
+		"/D/Castle/master/src/server/scripts/Northrend/CrusadersColiseum/TrialOfTheCrusader/trial_of_the_crusader.h",
+		"/D/Castle/master/src/server/scripts/Northrend/CrusadersColiseum/TrialOfTheCrusader/instance_trial_of_the_crusader.cpp",
+		"/D/Torrents/Pro.Evolution.Soccer.2013.Proper-RELOADED/reloaded.nfo",
+		"/D/Castle/master/sql/castle/2013_04_30_01_world_q13285.sql",
+		"/D/Workspaces/ST2/chapter9/chapter9.cabal",
+		"/D/Workspaces/ST2/chapter9/src/Main.hs",
+		"/D/Workspaces/ST2/Main.rs",
+		"/D/Workspaces/ST2/chapter9/src/RecursiveContents.hs",
+		"/D/Workspaces/ST2/chapter9/src/BetterPredicate.hs",
+		"/D/Workspaces/ST2/chapter9/src/ControlledVisit.hs",
+		"/D/Workspaces/ST2/chapter9/src/FoldDir.hs",
+		"/D/Workspaces/ST2/chapter9/src/    In an equation for `==?'",
+		"/D/Workspaces/ST2/chapter9/chapter9.sublime-project",
+		"/D/Workspaces/ST2/chapter8/src/Glob.hs",
+		"/D/Workspaces/ST2/chapter8/src/GlobRegex.hs",
+		"/D/Workspaces/ST2/chapter9/chapter9.sublime-workspace",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Workspaces/ST2/chapter9/Setup.hs",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Workspaces/ST2/chapter8/chapter8.cabal",
+		"/D/Workspaces/ST2/chapter8/src/Main.hs",
+		"/G/World of Warcraft/WTF/Account/DORIANGREY/SavedVariables.lua",
+		"/D/Castle/master/src/server/scripts/Northrend/VaultOfArchavon/boss_toravon.cpp",
+		"/D/Castle/master/src/server/scripts/Northrend/VaultOfArchavon/boss_koralon.cpp",
+		"/C/Users/Christian/Downloads/boss_koralon.cpp",
+		"/C/Users/Christian/Documents/Keys/DorianGrey.ppk",
+		"/C/Users/Christian/Documents/Keys/gitlab.keys",
+		"/D/Workspaces/ST2/Haskell_IO/HaskellIO.cabal",
+		"/D/Workspaces/ST2/Haskell_IO/src/Main.hs",
+		"/D/Haskell/2012.4.0.0/lib/include/Rts.h",
+		"/D/Workspaces/ST2/HaskellTrain/Training1.cabal",
+		"/D/Workspaces/ST2/Haskell_IO/Setup.hs",
+		"/D/Workspaces/ST2/JsonParser/src/Jsoner/Parser.hs",
+		"/D/Workspaces/ST2/JsonParser/src/Jsoner/JSONClass.hs",
+		"/D/Workspaces/ST2/JsonParser/src/Jsoner/PrettyWriter.hs",
+		"/D/Workspaces/ST2/JsonParser/src/Jsoner/FastWriter.hs",
+		"/D/Workspaces/ST2/Typeclasses/src/Main.hs",
+		"/D/Workspaces/ST2/JsonParser/src/Main.hs",
+		"/C/Users/Christian/AppData/Local/Ubisoft Game Launcher/settings.yml",
+		"/D/Torrents/The.Witcher.2.Assassins.of.Kings.Enhanced.Edition-SKIDROW/skidrow.nfo",
+		"/D/Workspaces/ST2/JsonParser/src/    Not in scope",
+		"/D/Workspaces/ST2/Typeclasses/src/    Not in scope",
+		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.0/include/thrust/iterator/detail/zip_iterator.inl",
+		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v5.0/include/thrust/iterator/zip_iterator.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"KernelDeriv",
+			"Kernel",
+			"helperDeriv",
+			"helper",
+			"80",
+			"(require 'package)\n(add-to-list 'package-archives\n             '(\"marmalade\" . \"http://marmalade-repo.org/packages/\"))\n(package-initialize)",
+			"69922",
+			"[PLAYER]",
+			"14350",
+			"spell_group_stack_rules",
+			"17364",
+			"NPC_QUELDELAR",
+			"boss_lady_deathwhisper",
+			"Log",
+			"NPC_GORMOK",
+			"TYPE_BEASTS",
+			"Acidmaw",
+			"dereference_iterator",
+			"compact",
+			"string",
+			"font",
+			"exitFailure",
+			">>\n",
+			"11",
+			"21",
+			"OPENCL",
+			"scala",
+			"{",
+			",",
+			"}",
+			"{",
+			"E",
+			")",
+			"(",
+			"1600",
+			"GenerateRelocatableDeviceCode",
+			"print",
+			"Guild",
+			"73818",
+			"SPELL_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"KernelDeriv_MxM",
+			"Kernel_MxM",
+			"calculateDeriv_VxV",
+			"calculate_VxV",
+			"helperDeriv",
+			"(",
+			"",
+			"*10^",
+			"}",
+			"{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Main.hs",
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SublimeHaskell/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/GP/Kernel/SquaredExponential.hs",
+					"settings":
+					{
+						"buffer_size": 3069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2594,
+								2594
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SublimeHaskell/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/GP/Kernel/Kernel.hs",
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SublimeHaskell/Haskell-SublimeHaskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/GP/Spawns/Spawn.hs",
+					"settings":
+					{
+						"buffer_size": 3249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/SublimeHaskell/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 11986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11985,
+								5293
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"auto_name": "http://www.linuxlounge.net/~martin/tmp/CFBG27.zip",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/G/World of Warcraft/Data/deDE/realmlist.wtf",
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.9o://D:\\Workspaces\\ST2\\Go":
+	{
+		"height": 295.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 98.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.haskell_error_checker":
+	{
+		"height": 247.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_symbol_info":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Workspaces/VS2012/RumTester/CoW/CoW/cow/CoW.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Workspaces/ST2/HaskellTrain/htest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
