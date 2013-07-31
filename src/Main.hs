@@ -21,11 +21,16 @@ module Main (
 import           Data.Packed.Matrix
 import           Data.Packed.Vector
 import qualified GP.Kernel.SquaredExponential as SE
-import qualified GP.Spawns.Spawn as GPs
+import qualified GP.Spawns.SimpleSpawn as GPs
 import qualified GP.Spawns.CholSpawn as CGP
+import qualified GP.Spawns.Spawns as GP
+import           GP.Spawns.Prediction
 
-theta_default = 0.3
-sigma_default = 0.1
+thetaDefault :: Double 
+thetaDefault = 0.3
+
+sigmaDefault :: Double
+sigmaDefault = 0.1
 
 main::IO ()
 main = do
@@ -33,18 +38,18 @@ main = do
     let xs = fromList [240.0]
     let y = fromList [36.0, 33.0, 30.0]
     -- General GP
-    let gp = GPs.create x y SE.getDefaultSet SE.getDerivSet theta_default sigma_default
-    let res = GPs.calcPrediction xs gp
+    let gp = GPs.create x y SE.getDefaultSet SE.getDerivSet thetaDefault sigmaDefault
+    let res = calcPrediction xs gp
     putStrLn "Results from Basic GP:"
-    print $ "[alpha] " ++ show (GPs.alpha gp)
-    print $ "[lPy] " ++ show (GPs.lPy gp)
+    print $ "[alpha] " ++ show (GP.alpha gp)
+    print $ "[lPy] " ++ show (GP.lPy gp)
     print $ "[pred. result] " ++ show res
     -- Cholesky Gp
-    let gp = CGP.create x y SE.getDefaultSet SE.getDerivSet theta_default sigma_default
-    let res = CGP.calcPrediction xs gp
+    let cgp = CGP.create x y SE.getDefaultSet SE.getDerivSet thetaDefault sigmaDefault
+    let cres = calcPrediction xs cgp
     putStrLn "Results from Basic GP:"
-    print $ "[alpha] " ++ show (CGP.alpha gp)
-    print $ "[lPy] " ++ show (CGP.lPy gp)
-    print $ "[pred. result] " ++ show res
+    print $ "[alpha] " ++ show (GP.alpha cgp)
+    print $ "[lPy] " ++ show (GP.lPy cgp)
+    print $ "[pred. result] " ++ show cres
 
     
